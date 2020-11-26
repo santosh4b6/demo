@@ -5,3 +5,5 @@ Updated
 
 Modified for diff purpose
 updated in branch
+
+stashing example
